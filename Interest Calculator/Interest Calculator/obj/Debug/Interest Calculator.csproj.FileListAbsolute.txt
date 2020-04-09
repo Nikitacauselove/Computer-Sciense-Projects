@@ -1,0 +1,10 @@
+C:\Users\Никита\source\repos\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.exe.config
+C:\Users\Никита\source\repos\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.exe
+C:\Users\Никита\source\repos\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.pdb
+C:\Users\Никита\source\repos\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.csprojAssemblyReference.cache
+C:\Users\Никита\source\repos\Interest Calculator\Interest Calculator\obj\Debug\Interest_Calculator.Form1.resources
+C:\Users\Никита\source\repos\Interest Calculator\Interest Calculator\obj\Debug\Interest_Calculator.Properties.Resources.resources
+C:\Users\Никита\source\repos\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.csproj.GenerateResource.cache
+C:\Users\Никита\source\repos\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.exe
+C:\Users\Никита\source\repos\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.pdb
