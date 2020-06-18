@@ -1,0 +1,10 @@
+C:\Users\Никита\source\repos\Text Analysis with Threads\Text Analysis with Threads\bin\Debug\Text Analysis with Threads.exe.config
+C:\Users\Никита\source\repos\Text Analysis with Threads\Text Analysis with Threads\bin\Debug\Text Analysis with Threads.exe
+C:\Users\Никита\source\repos\Text Analysis with Threads\Text Analysis with Threads\bin\Debug\Text Analysis with Threads.pdb
+C:\Users\Никита\source\repos\Text Analysis with Threads\Text Analysis with Threads\obj\Debug\Text Analysis with Threads.csprojAssemblyReference.cache
+C:\Users\Никита\source\repos\Text Analysis with Threads\Text Analysis with Threads\obj\Debug\Text_Analysis_with_Threads.Form1.resources
+C:\Users\Никита\source\repos\Text Analysis with Threads\Text Analysis with Threads\obj\Debug\Text_Analysis_with_Threads.Properties.Resources.resources
+C:\Users\Никита\source\repos\Text Analysis with Threads\Text Analysis with Threads\obj\Debug\Text Analysis with Threads.csproj.GenerateResource.cache
+C:\Users\Никита\source\repos\Text Analysis with Threads\Text Analysis with Threads\obj\Debug\Text Analysis with Threads.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\Text Analysis with Threads\Text Analysis with Threads\obj\Debug\Text Analysis with Threads.exe
+C:\Users\Никита\source\repos\Text Analysis with Threads\Text Analysis with Threads\obj\Debug\Text Analysis with Threads.pdb
